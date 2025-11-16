@@ -1,4 +1,4 @@
-# DOBRE-PRAKTYKI-PROGRAMOWANIA
+# LAB 01
 
 ## How to set up the environment and install dependencies
 
